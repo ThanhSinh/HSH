@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./asset/style.css">
     <link rel="stylesheet" href="./asset/base.css">
 </head>
-<body><h1>create project php</h1>
+<body>
+    <h1>create project php</h1>
 </body>
 </html>
